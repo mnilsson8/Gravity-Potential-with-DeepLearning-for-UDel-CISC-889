@@ -4,7 +4,7 @@ https://docs.google.com/document/d/1j2TZJyZJMFm-9dnA9_faDacOpKsoXMpMjNPrXYIlgto/
 
 Paper Link: 
 https://ar5iv.labs.arxiv.org/html/2011.04673
-Pytorch: https://github.com/tingyuansen/deep-potential/blob/master/notebooks/plummer_sphere_example.ipynb 
+PyTorch: https://github.com/tingyuansen/deep-potential/blob/master/notebooks/plummer_sphere_example.ipynb 
 https://github.com/gregreen/deep-potential/blob/master/notebooks/gauss_law.ipynb 
 
 The final project asks students to apply Scientific Machine Learning methods to a substantive problem in science or engineering. Projects should connect a clearly defined scientific question with appropriate data, governing equations, physical constraints, or domain knowledge. Students are expected to justify their modeling choices, evaluate their results critically, and communicate the limitations of their approach. The size of the group and the duration of the presentation will be determined after registration for the course is finalized.
